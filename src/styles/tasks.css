@@ -1,0 +1,10 @@
+.dark-mode{
+    background-color: #323130;
+    color: #ffffff;
+}
+.completedTask{
+    background-color: darkgreen;
+}
+.marcaCompleted{
+    background-color: goldenrod;
+}
